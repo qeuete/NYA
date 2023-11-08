@@ -1,0 +1,14 @@
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+D:\инфа\скорогудаева\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
